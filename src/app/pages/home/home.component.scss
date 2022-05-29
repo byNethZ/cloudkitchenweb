@@ -70,3 +70,8 @@
   border-radius: 5px;
   font-size: 18px;
 }
+@media screen and (max-width:60px) {
+  .banner{
+    height: 700px;
+  }
+}
